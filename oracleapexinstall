@@ -5,7 +5,7 @@ autoextend on
 next 64m maxsize 8G
 extent management local;
 
-@apexins apex apex temp /i/
+@apexins.sql apex apex temp /i/
 
 @apxchpwd.sql
 
